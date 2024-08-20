@@ -11,7 +11,8 @@ _Las tecnologias implementadas fueron:_
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Para el DOM y backend.
 * [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - Estilo de la pagina web.
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - Estructura en codigo primitivo.
-* [LocalHost](https://es.wikipedia.org/wiki/Localhost) - Para el manejo de ususarios y carro de compras.
+* [JSON server](https://www.npmjs.com/package/json-server) - Para solicitudes API.
+* [LocalHost](https://es.wikipedia.org/wiki/Localhost) - Para el manejo de ususarios.
 
 ## Acerca del proyecto
 
